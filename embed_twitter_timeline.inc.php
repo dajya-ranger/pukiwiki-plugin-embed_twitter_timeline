@@ -5,17 +5,14 @@
  *
  * Twitterタイムライン組込プラグイン
  *
- * 作成者：オヤジ戦隊ダジャレンジャー(Twitter:@dajya_ranger_)
- * サイト：SEの良心（https://dajya-ranger.com/）
- *
- * 修正歴：2019/07/12 プラグイン名を変更
- *　　　　　　　　　　タイムライン幅の無指定をデフォルトにする（指定も可）
- * 　　　　2019/08/03 タイムラインのその他のオプションにちゃんと対応
- *
- * Version 0.3.0
- * Date    2019/06/19
- * Update  2019/08/03
- * License The same as PukiWiki
+ * @author		オヤジ戦隊ダジャレンジャー <red@dajya-ranger.com>
+ * @copyright	Copyright © 2019, dajya-ranger.com
+ * @link		https://dajya-ranger.com/pukiwiki/embed-twitter-timeline/
+ * @example		#embed_twitter_timeline
+ * @license		Apache License 2.0
+ * @since 		0.1.0 2019/08/03 タイムラインのその他のオプションにちゃんと対応
+ * @since 		0.1.1 2019/07/12 プラグイン名を変更・タイムライン幅の無指定をデフォルトにする（指定も可）
+ * @since 		0.1.0 2019/06/19 暫定初公開
  *
  */
 
