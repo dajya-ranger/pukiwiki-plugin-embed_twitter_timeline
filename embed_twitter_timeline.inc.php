@@ -10,6 +10,7 @@
  * @link		https://dajya-ranger.com/pukiwiki/embed-twitter-timeline/
  * @example		#embed_twitter_timeline
  * @license		Apache License 2.0
+ * @version		0.3.0
  * @since 		0.3.0 2019/08/03 タイムラインのその他のオプションにちゃんと対応
  * @since 		0.2.0 2019/07/12 プラグイン名を変更・タイムライン幅の無指定をデフォルトにする（指定も可）
  * @since 		0.1.0 2019/06/19 暫定初公開
