@@ -1,6 +1,6 @@
 <?php
 
-/*
+/**
  * embed_twitter_timeline.inc.php
  *
  * Twitterタイムライン組込プラグイン
